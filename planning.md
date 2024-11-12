@@ -2,6 +2,8 @@ Project 3
 
 App Name: Game Database (Might Change later)
 
+Link https://rawg.io/apidocs
+
 https://www.destructoid.com/wp-content/uploads/2022/12/global-game-market-2022-downloads-sales.jpg (Also will change later)
 
 
